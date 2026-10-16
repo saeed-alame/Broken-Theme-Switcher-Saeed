@@ -1,0 +1,13 @@
+body {
+font-family: Arial;
+background-color: white;
+color: black;
+}
+.dark {
+background-color: black;
+color: white; /* error: was "whit" */
+}
+button {
+padding: 10px;
+font-size: 1.2rem;
+}
